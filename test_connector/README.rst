@@ -46,6 +46,7 @@ Contributors
 * Guewen Baconnier <guewen.baconnier@camptocamp.com>
 * Simone Orsi <simone.orsi@camptocamp.com>
 * Testing Landoo - JS
+* Testing Landoo - IG
 
 Maintainer
 ----------
