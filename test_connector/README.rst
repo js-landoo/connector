@@ -47,6 +47,7 @@ Contributors
 * Simone Orsi <simone.orsi@camptocamp.com>
 * Testing Landoo - JS
 * Testing Landoo - IG
+* Testing Landoo - Landoo
 
 Maintainer
 ----------
