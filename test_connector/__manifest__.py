@@ -4,6 +4,9 @@
 
 {'name': 'Connector Tests',
  'summary': 'Automated tests for Connector, do not install.',
+ 'description': """
+        Short description
+    """,
  'version': '10.0.1.0.0',
  'author': 'Camptocamp,Odoo Community Association (OCA)',
  'license': 'AGPL-3',
